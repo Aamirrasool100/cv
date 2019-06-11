@@ -1,0 +1,18 @@
+body{
+    background-color:#DBF0F0
+}
+#image{
+    border-radius:50%
+}
+#headtable{
+    background-color:#fff5e6;
+    color:black;
+    padding:"27px"
+    
+}
+.bigtag{
+    color:green;
+    /* background-color:grey; */
+    width:50%;
+    text-align:left;
+}
